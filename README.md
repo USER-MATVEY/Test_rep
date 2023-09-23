@@ -1,0 +1,3 @@
+# Test_rep
+First time trying to create poject for Android.
+Just donloaded all i need and configurating things...
